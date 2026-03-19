@@ -25,6 +25,7 @@ The board has 3 switchable layers:
 
 ## The story
 One day as I was editing a video for the video club at my school (check out the [yt channel](https://www.youtube.com/@gsgwaldkirch4155)), I was annoyed by the standard key assignments of Premiere Pro. Especially using the arrow keys to seek through frames manually (i.e. for finding the excact startframe of a clip) is a really slow process, so I thought, wouldn't it be cool to have a rotary knob for that and then also to have a special key set for directly placing cuts and zooming in the timeline? 
+
 So I the idea to design my own macroboard was born. I found a nice starting tutorial on [the hackclub blueprint website](https://blueprint.hackclub.com/), which showed the ground ideas of macroboard design.
 As it was just two weeks before christmas back then, I thought it would also be cool to use the board as a christmas present.
 
