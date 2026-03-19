@@ -12,6 +12,8 @@ https://cad.onshape.com/documents/f016138659585157d187dc39/w/5da7c9f47346b58de63
 - rgb leds 
 - rp2040 based
 
+Note: The code folder also includes kmk and the necessary addons, so it can be directly flashed to the rp2040.
+
 ## Standard key binds
 The board has 3 switchable layers:
 |Layer| Rotary button | Rotary encoder | Button 1 | Button 2 | Button 3 | Button 4 | Button 5 | Button 6 |
